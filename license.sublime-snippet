@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+###############################################################################
+#    License, author and contributors information in:                         #
+#    __manifest__.py file at the root folder of this module.                   #
+###############################################################################
+
+]]></content>
+    <tabTrigger>odoo/copyright</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

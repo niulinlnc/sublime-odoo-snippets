@@ -68,7 +68,7 @@ ${4}
     'installable': True
 }${0}
 ]]></content>
-    <tabTrigger>__openerp__</tabTrigger>
+    <tabTrigger>odoo/file/__openerp__</tabTrigger>
     <scope>source.python</scope>
     <description>Odoo manifest file common structure</description>
 </snippet>

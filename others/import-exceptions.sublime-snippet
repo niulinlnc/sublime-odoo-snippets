@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+from odoo.exceptions import UserError, ValidationError
+]]></content>
+    <tabTrigger>odoo/import/exceptions</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
